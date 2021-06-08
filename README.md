@@ -1,5 +1,7 @@
 # A-Chat-Application
 
+chat application based on React.js, Typescript, Hooks, Material-UI, Socket.io, Node.js, Express
+
 
 # Run clientApp
 1) Node version 10+
